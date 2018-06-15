@@ -1,0 +1,6 @@
+{
+    "connection": {
+        "port": 5370,
+        "timeout": 120
+    }
+}
